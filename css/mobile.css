@@ -1,0 +1,17 @@
+@media(max-width:480px) {
+    .section_p {
+        font-size: 14px;
+    }
+
+    .sec3_p {
+        font-size: 12px;
+    }
+
+    .pic_div {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    footer{
+        margin-top: 48px;
+    }
+}
